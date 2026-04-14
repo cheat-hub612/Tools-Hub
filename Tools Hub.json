@@ -1,7 +1,7 @@
 {
   "sha256": "your_executable_sha256_here",
   "hwid": [
-    "hwid_user1_here",
+    "d4565a75c30436b6a24620575aa7e50b53788e1e2056cc544a8fd98e9a344903",
     "hwid_user2_here",
     "hwid_user3_here"
   ]
