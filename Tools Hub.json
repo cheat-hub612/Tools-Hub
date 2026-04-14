@@ -1,1 +1,8 @@
-
+{
+  "sha256": "your_executable_sha256_here",
+  "hwid": [
+    "hwid_user1_here",
+    "hwid_user2_here",
+    "hwid_user3_here"
+  ]
+}
